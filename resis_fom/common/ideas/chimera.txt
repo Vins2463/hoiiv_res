@@ -19,7 +19,7 @@ ideas = {
 	
 			modifier = {
 				conscription = 0.20
-				MONTHLY_POPULATION = 0
+				unity_factor = 1
 			}
 		}		
 
@@ -39,9 +39,11 @@ ideas = {
 			picture = generic_intel_bonus
 	
 			modifier = {
-				army_defence_factor = 0.2
-				army_attack_factor = 0.2
+				army_defence_factor = 0.125
+				army_attack_factor = 0.125
 				army_core_defence_factor = 0.2
+				army_morale_factor = 0.125
+				training_time_factor = -0.25
 			}
 		}
 		
