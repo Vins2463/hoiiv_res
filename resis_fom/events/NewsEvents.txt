@@ -12763,9 +12763,11 @@ news_event = {
 	desc = news.331.d
 	picture = GFX_report_event_japanese_transport_soldiers
 	
+	major = yes
+	
 	is_triggered_only = yes
 	
-	trigger {
+	trigger = {
 	Date = 1936.1.10
 	}
 	
