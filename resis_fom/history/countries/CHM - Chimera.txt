@@ -36,6 +36,8 @@ set_politics = {
 
 add_ideas = {
 	CHM_infection
+	CHM_build_tech
+	CHM_strength
 }
 
 set_convoys = 0
