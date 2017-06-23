@@ -12766,9 +12766,7 @@ news_event = {
 	is_triggered_only = yes
 	
 	trigger {
-	tag = 
-	AND = {
-	Date = 1936.1.10}
+	Date = 1936.1.10
 	}
 	
 	option = {
