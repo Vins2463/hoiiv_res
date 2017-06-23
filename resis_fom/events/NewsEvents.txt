@@ -12768,12 +12768,13 @@ news_event = {
 	is_triggered_only = yes
 	
 	trigger = {
-	Date = 1936.1.10
+	date > 1936.1.10
 	}
 	
-	option = {
-		name = news.24.a
+	mean_time_to_happen = {
+		days = 2
 	}
+	
 }
 		
 
