@@ -1,0 +1,25 @@
+ideas = {
+
+	country = {
+
+		CHM_infection = {
+			
+			allowed = {
+				original_tag = CHM
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = no
+			}
+
+			removal_cost = -1
+
+			picture = generic_manpower_bonus
+	
+			modifier = {
+				conscription = 0.20
+			}
+		}		
+	}	
+}
