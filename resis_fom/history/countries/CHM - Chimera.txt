@@ -34,6 +34,10 @@ set_politics = {
 	elections_allowed = no
 }
 
+add_ideas = {
+	CHM_infection
+}
+
 set_convoys = 0
 
 #Victor Emmanuel III of Italy after 39
