@@ -1,4 +1,4 @@
-name="resis_fom"
+﻿name="resis_fom"
 path="mod/resis_fom"
 tags={
 	"Alternative History"
