@@ -12755,3 +12755,28 @@ news_event = {
 		}
 	}
 }
+
+# Alaska - The Northern Front - Construction begins in Anchorage, Alaska on a classified location.
+news_event = {
+	id = news.331
+	title = news.331.t
+	desc = news.331.d
+	picture = GFX_report_event_japanese_transport_soldiers
+	
+	is_triggered_only = yes
+	
+	trigger {
+	tag = 
+	AND = {
+	Date = 1936.4.15}
+	}
+	
+	mean_time_to_happen = {days = 7}
+	
+	option = {
+		name = news.24.a
+	}
+}
+		
+
+
